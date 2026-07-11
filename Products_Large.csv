@@ -1,0 +1,76 @@
+ProductID,ProductName,Category,Brand,Price,Stock
+P001,Laptop 1,Electronics,BrandA,33744,110
+P002,Phone 2,Electronics,BrandD,14773,397
+P003,Headphones 3,Electronics,BrandB,39672,62
+P004,Laptop 4,Electronics,,55227,327
+P005,Monitor 5,Electronics,BrandA,14730,428
+P006,Monitor 6,Electronics,BrandA,67751,294
+P007,Phone 7,Electronics,BrandB,38377,219
+P008,Laptop 8,Electronics,BrandC,31731,292
+P009,Monitor 9,Electronics,BrandB,11421,268
+P010,Headphones 10,Electronics,BrandA,69151,278
+P011,Laptop 11,Electronics,BrandD,61821,22
+P012,Monitor 12,Electronics,BrandC,33446,382
+P013,Laptop 13,Electronics,BrandC,9055,176
+P014,Phone 14,Electronics,BrandA,76471,376
+P015,Headphones 15,Electronics,BrandB,6011,180
+P016,Desk 1,Furniture,BrandC,23149,425
+P017,Desk 2,Furniture,BrandD,62922,323
+P018,Chair 3,Furniture,BrandB,8470,366
+P019,Table 4,Furniture,BrandA,38662,103
+P020,Chair 5,Furniture,BrandB,5692,161
+P021,Table 6,Furniture,BrandD,71376,242
+P022,Table 7,Furniture,BrandA,25248,146
+P023,Table 8,Furniture,BrandA,43706,139
+P024,Chair 9,Furniture,BrandC,57472,455
+P025,Table 10,Furniture,BrandD,50878,173
+P026,Chair 11,Furniture,BrandD,65411,188
+P027,Desk 12,Furniture,BrandC,11028,372
+P028,Table 13,Furniture,BrandA,56640,308
+P029,Chair 14,Furniture,BrandC,42301,52
+P030,Chair 15,Furniture,BrandC,38950,156
+P031,Dictionary 1,Books,BrandD,22042,353
+P032,Dictionary 2,Books,BrandC,58806,21
+P033,Dictionary 3,Books,BrandD,36186,327
+P034,Novel 4,Books,BrandA,53442,186
+P035,Novel 5,Books,BrandA,18914,434
+P036,Dictionary 6,Books,BrandA,16745,34
+P037,Novel 7,Books,BrandC,47667,196
+P038,Novel 8,Books,BrandB,59172,485
+P039,Dictionary 9,Books,BrandC,58388,390
+P040,Novel 10,Books,BrandB,69597,187
+P041,Dictionary 11,Books,BrandC,36728,127
+P042,Novel 12,Books,BrandA,24585,255
+P043,Dictionary 13,Books,BrandA,34511,396
+P044,Dictionary 14,Books,BrandD,28324,313
+P045,Dictionary 15,Books,BrandD,26437,62
+P046,Football 1,Sports,BrandA,59450,88
+P047,Cricket Bat 2,Sports,BrandA,42089,341
+P048,Cricket Bat 3,Sports,BrandA,72289,277
+P049,Cricket Bat 4,Sports,BrandC,20844,364
+P050,Football 5,Sports,BrandC,66883,114
+P051,Football 6,Sports,BrandB,18402,121
+P052,Cricket Bat 7,Sports,BrandA,47503,283
+P053,Cricket Bat 8,Sports,BrandD,72505,66
+P054,Football 9,Sports,BrandA,40739,203
+P055,Cricket Bat 10,Sports,BrandD,53865,421
+P056,Football 11,Sports,BrandB,41753,328
+P057,Football 12,Sports,BrandD,61257,348
+P058,Cricket Bat 13,Sports,BrandB,72460,327
+P059,Football 14,Sports,BrandB,56904,257
+P060,Football 15,Sports,BrandA,68108,78
+P061,Oil 1,Grocery,BrandB,21429,165
+P062,Rice 2,Grocery,BrandC,68212,458
+P063,Oil 3,Grocery,BrandA,33047,100
+P064,Oil 4,Grocery,BrandB,39891,314
+P065,Rice 5,Grocery,BrandB,77769,482
+P066,Rice 6,Grocery,BrandB,79516,172
+P067,Rice 7,Grocery,BrandA,10846,23
+P068,Oil 8,Grocery,BrandB,75191,213
+P069,Rice 9,Grocery,BrandD,71709,148
+P070,Oil 10,Grocery,BrandD,32296,412
+P071,Oil 11,Grocery,BrandC,59646,37
+P072,Rice 12,Grocery,BrandB,57819,212
+P073,Oil 13,Grocery,BrandD,26941,174
+P074,Rice 14,Grocery,BrandC,42053,375
+P075,Oil 15,Grocery,BrandD,17339,389
